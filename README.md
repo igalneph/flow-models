@@ -4,6 +4,15 @@ This repository contains the implementation of my academic project in machine le
 
 ---
 
+## Access to Source Code
+
+For academic integrity reasons, the full source code of this project is kept in a **private repository**.  
+If you are a recruiter, hiring manager, or collaborator and would like to review the code,  
+please feel free to [contact me](mailto:ygalnep@gmail.com).  
+I will be glad to provide access upon request.
+
+---
+
 ## Project Overview
 
 Generative models aim to learn transformations from a simple distribution (e.g., Gaussian noise) into a complex data distribution. In this project, I implemented and analyzed two flow-based approaches:
@@ -51,26 +60,3 @@ The models successfully learn to map Gaussian noise into the Olympic rings distr
 * Sampling from trained flows (unconditional and conditional).
 * Trajectories of points through the flow transformations.
 * Analysis of time quantization and flow reversibility in Flow Matching .
-
----
-
-## How to Run
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/igalenph/flow-models.git
-   cd flow-models-project
-   ```
-
-2. Install dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the main.py script:
-
-   ```bash
-   python main.py
-   ```
