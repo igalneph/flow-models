@@ -15,6 +15,8 @@ I will be glad to provide access upon request.
 
 ## Project Overview
 
+![](https://i.imgur.com/RnyU3L7.png)
+
 Generative models aim to learn transformations from a simple distribution (e.g., Gaussian noise) into a complex data distribution. In this project, I implemented and analyzed two flow-based approaches:
 
 1. **Normalizing Flows**
